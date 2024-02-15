@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Visitor Count](https://profile-counter.glitch.me/{kasraone}/count.svg)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kasraone/count.svg" />
+</p>
