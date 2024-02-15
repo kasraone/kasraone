@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </p>
 
 
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!"></a>
