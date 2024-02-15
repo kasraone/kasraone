@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 </div>
 
 
+<div>
+    <a href="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+        <img draggable="false" style="width:119px;height:20px;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+    </a>
+    <a href="https://t.me/kasraone_com">
+        <img draggable="false" style="width:119px;height:20px;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+</div>
