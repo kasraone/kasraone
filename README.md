@@ -1,8 +1,5 @@
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kasraone/count.svg" />
-</p>
+
 
 
 <div align="center">
@@ -11,6 +8,10 @@
     </a>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kasraone/count.svg" />
+</p>
 
 
 ### Hi there 👋
