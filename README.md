@@ -29,10 +29,3 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-
-
-        splitAndMerge();
-    };
-</script>
-</body>
-</html>
