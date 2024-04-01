@@ -1,5 +1,9 @@
 
-
+### .👋 Hello, dear users, we are the team (KASRAONE).
+### .👀 We are interested in artificial intelligence, cyber security and programming
+### .🌱 We like to learn. It is an art and a science. (Katherine Johnson)
+### .💞️ We are looking for cooperation in any kind of security project
+### .📫 How to contact our team: kasraonecom@gmail.com
 
 
 <div align="center">
@@ -14,6 +18,6 @@
 </p>
 
 
-### Hi there 👋
+
 
 
