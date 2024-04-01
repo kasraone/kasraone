@@ -19,7 +19,12 @@
   <img src="https://profile-counter.glitch.me/kasraone/count.svg" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasraone&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasraone&hide_progress=true)
 
 
 
+ <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
 
+</p>
