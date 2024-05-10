@@ -6,7 +6,6 @@
 - .📫 How to contact our team: servicekasraone@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kasraone=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 >
