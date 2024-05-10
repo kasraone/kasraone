@@ -3,7 +3,8 @@
 - .👀 We are interested in artificial intelligence, cyber security and programming
 - .🌱 We like to learn. It is an art and a science. (Katherine Johnson)
 - .💞️ We are looking for cooperation in any kind of security project
-- .📫 How to contact our team: kasraonecom@gmail.com
+- .📫 How to contact our team: servicekasraone@gmail.com
+
 
 
 
