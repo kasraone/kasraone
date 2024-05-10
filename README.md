@@ -7,7 +7,7 @@
 
 
 
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/kasraone)](https://discord.com/users/kasraone)
 
 
 >
