@@ -22,11 +22,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasraone&hide_progress=true)
 
 
-<div align="center">
-    <a href="https://github.com/kasraone">
-        <img alt="typograssy" [ src[https://typograssy.deno.dev/api?text=KASRAONE&l0=ffffff&l1=00ff11&l2=00ff33&l3=00ff33&l4=00ff33&speed=1&comment=]
-    </a>
-</div
 
  <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
 
