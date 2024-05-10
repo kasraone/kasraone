@@ -7,6 +7,10 @@
 
 
 
+[![](https://visitcount.itsvg.in/api?id=kasraone&label=Red%20team&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+
+
 
 <div align="center">
     <a href="https://github.com/kasraone">
