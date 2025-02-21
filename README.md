@@ -1,27 +1,47 @@
+### 👋 Hello, dear users! Welcome to **KASRAONE**  
 
-- .👋 Hello, dear users, we are the team (KASRAONE).
-- .👀 We are interested in artificial intelligence, cyber security and programming
-- .🌱 We like to learn. It is an art and a science. (Katherine Johnson)
-- .💞️ We are looking for cooperation in any kind of security project
-- .📫 How to contact our team: servicekasraone@gmail.com
+---  
 
+🚀 **Who We Are:**  
+We are **KASRAONE**, a passionate team focused on **artificial intelligence, cybersecurity, and programming**.  
 
+💡 **Our Philosophy:**  
+_"Learning is both an art and a science."_ – Katherine Johnson  
 
+🤝 **Collaboration:**  
+We are actively looking for cooperation in security projects and cutting-edge research.  
 
->
+📩 **Contact Us:**  
+✉️ servicekasraone@gmail.com  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kasraone/count.svg" />
-</p>
+---  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasraone&show_icons=true&theme=transparent)
+## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasraone&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasraone&layout=compact&theme=radical" />
+</p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasraone&hide_progress=true)
+---  
 
-[![](https://visitcount.itsvg.in/api?id=kasraone&label=Red%20team&icon=1&pretty=false)](https://visitcount.itsvg.in)
+## 🔥 Visitor Count  
+<p align="center">  
+  <img src="https://profile-counter.glitch.me/kasraone/count.svg" />  
+</p>  
 
+---  
 
- <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
+## 🛠️ Our Tech Stack  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />  
+</p>  
 
-</p>
+---  
+
+## 🔴 Red Team Activity  
+[![](https://visitcount.itsvg.in/api?id=kasraone&label=Red%20Team&icon=1&pretty=false)](https://visitcount.itsvg.in)  
+
+---  
+
+🌟 *Stay connected, keep learning, and let's build a secure digital future together!*  
