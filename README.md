@@ -1,47 +1,34 @@
-### 👋 Hello, dear users! Welcome to **KASRAONE**  
+## 👋 Welcome to KASRAONE  
+
+🚀 **AI, Cybersecurity & Programming Enthusiasts**  
+💡 _"Learning is both an art and a science."_ – Katherine Johnson  
+🤝 **Open to security collaborations**  
+📩 **Contact:** [servicekasraone@gmail.com](mailto:servicekasraone@gmail.com)  
 
 ---  
 
-🚀 **Who We Are:**  
-We are **KASRAONE**, a passionate team focused on **artificial intelligence, cybersecurity, and programming**.  
-
-💡 **Our Philosophy:**  
-_"Learning is both an art and a science."_ – Katherine Johnson  
-
-🤝 **Collaboration:**  
-We are actively looking for cooperation in security projects and cutting-edge research.  
-
-📩 **Contact Us:**  
-✉️ servicekasraone@gmail.com  
-
----  
-
-## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasraone&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasraone&layout=compact&theme=radical" />
+### 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=kasraone&show_icons=true&theme=radical" />  
 </p>  
 
 ---  
 
-## 🔥 Visitor Count  
+### 🔥 Visitors  
 <p align="center">  
   <img src="https://profile-counter.glitch.me/kasraone/count.svg" />  
 </p>  
 
 ---  
 
-## 🛠️ Our Tech Stack  
+### 🛠️ Tech Stack  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />  
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,php,js,html,css,bash,django,go,java,kotlin,laravel,mysql,postgres,linux,react,nextjs,nginx,docker,qt" />  
 </p>  
 
 ---  
 
-## 🔴 Red Team Activity  
+### 🔴 Red Team  
 [![](https://visitcount.itsvg.in/api?id=kasraone&label=Red%20Team&icon=1&pretty=false)](https://visitcount.itsvg.in)  
 
----  
-
-🌟 *Stay connected, keep learning, and let's build a secure digital future together!*  
+🚀 *Let's build a secure future together!*
